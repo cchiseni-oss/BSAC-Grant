@@ -1,20 +1,22 @@
 # The Company-State's Ledger: Taxation, Labour and Public Finance under the British South Africa Company in Northern Rhodesia, 1896–1924
 
-*Draft research project application to Jan Wallanders och Tom Hedelius stiftelse and Tore Browaldhs stiftelse (Handelsbanken's research foundations). Draft 0.1, 30 October 2026.*
+*Draft research project application to Jan Wallanders och Tom Hedelius stiftelse and Tore Browaldhs stiftelse (Handelsbanken's research foundations). Draft 0.2, 30 October 2026.*
 
-> Text in [square brackets] needs your input. Before submitting, check every section against the current call text and the field limits in the application portal (teklafs.stanford.se). See `grant/README.md` for what still has to be confirmed.
+> Text in [square brackets] needs your input. The call opens on 1 December 2026. When it does, check every section against the call text and the field limits in the application portal (teklafs.stanford.se). See `grant/README.md` for what still has to be confirmed.
 
 | | |
 |---|---|
-| Principal investigator | [Name, title, department, university] |
-| Co-applicants | [Names and institutions, or delete this row] |
-| Project period | [36 months, e.g. 1 July 2027 to 30 June 2030] |
+| Main applicant | [Klas Rönnbäck, Professor of Economic History, or another applicant employed at the University of Gothenburg: confirm] |
+| Co-applicants | [Your name, position and affiliation; others if any] |
+| Host institution | Economic History unit, Department of Economy and Society, School of Business, Economics and Law, University of Gothenburg |
+| Archive access | Southern African Institute for Policy and Research (SAIPAR), Lusaka |
+| Project period | [36 months; set the start date from the call's decision date] |
 | Amount requested | [SEK total; see Section 11] |
 | Subject area | Economic history, with business history |
 
 ## Summary
 
-From the mid-1890s until 1924, the territory that became Zambia was administered by a chartered, profit-seeking firm, the British South Africa Company (BSAC), under the supervision of British imperial officials. Company-states played a large part in the history of capitalism and empire (Phillips and Sharman 2020), and concession-company rule elsewhere in Central Africa has had lasting effects on development (Lowes and Montero 2021). Yet there is no consistent account of how the BSAC financed its administration north of the Zambezi, what it spent money on, or how its taxes affected African labour and migration. Quantitative research on colonial public finance in British Africa has grown quickly (Frankema 2010; Gardner 2012), but a standard source for it, the annual Blue Book, is available for Northern Rhodesia in the main digitised collection only from 1924, when the Crown took over. This project uses a newly digitised archive of the BSAC's administrative records (954 catalogue entries, more than 60,000 images) to (1) reconstruct the territory's revenue and expenditure under company rule, (2) estimate how direct taxation affected African labour supply and migration at district level, and (3) test whether the transfer from company to Crown rule changed fiscal policy. The project will publish an open, documented dataset and three journal articles.
+From the mid-1890s until 1924, the territory that became Zambia was administered by a chartered, profit-seeking firm, the British South Africa Company (BSAC), under the supervision of British imperial officials. Company-states played a large part in the history of capitalism and empire (Phillips and Sharman 2020), and concession-company rule elsewhere in Central Africa has had lasting effects on development (Lowes and Montero 2021). Yet there is no consistent account of how the BSAC financed its administration north of the Zambezi, what it spent money on, or how its taxes affected African labour and migration. Quantitative research on colonial public finance in British Africa has grown quickly (Frankema 2010; Gardner 2012), but a standard source for it, the annual Blue Book, is available for Northern Rhodesia in the main digitised collection only from 1924, when the Crown took over. This project uses a newly digitised archive of the BSAC's administrative records (954 catalogue entries, more than 60,000 images) to (1) reconstruct the territory's revenue and expenditure under company rule, (2) estimate how direct taxation affected African labour supply and migration at district level, and (3) test whether the transfer from company to Crown rule changed fiscal policy. The project will be based at the University of Gothenburg, with archive access through the Southern African Institute for Policy and Research in Lusaka, and will publish an open, documented dataset and three journal articles.
 
 ## Popular science summary
 
@@ -47,7 +49,7 @@ The territory's economy after company rule is better documented. The 1938 commis
 
 Chartered companies were profit-seeking firms that also held sovereign powers of war, peace and rule (Phillips and Sharman 2020). How such a company governed can matter long after it has gone: Lowes and Montero (2021) find that areas of the Congo Free State granted to rubber concession companies have worse education, wealth and health outcomes today. The BSAC is a central case. It was initially the largest company in Rönnbäck and Broberg's (2019) sample of London-listed ventures operating in Central and Southern Africa, and it administered Southern Rhodesia until 1923 and Northern Rhodesia until 1924.
 
-General histories describe the company period in Northern Rhodesia (Gann 1958, 1964; Roberts 1976), and Slinn (1971) traced the political role of the company's commercial concessions in the territory from 1890 to 1964. Recent business history has returned to the company. Rönnbäck and Broberg (2022) show how the BSAC moved from defending its charter to renegotiating its terms and eventually embracing the end of company rule in 1923–24. Rönnbäck and Ngoma (2024) show how it persuaded the imperial government to accept contested claims to land and minerals in Northern Rhodesia and Nyasaland. Koke (2024) reconstructs Southern Rhodesia's fiscal system under the BSAC between 1890 and 1922 and finds that the company's approach was gradual, experimental and sometimes ad hoc, with shifting definitions of "commercial" and "administrative" revenue that caused repeated conflict with settlers.
+General histories describe the company period in Northern Rhodesia (Gann 1958, 1964; Roberts 1976), and Slinn (1971) traced the political role of the company's commercial concessions in the territory from 1890 to 1964. Recent business history, including work by members of this project team [keep this phrase only if Klas Rönnbäck is an applicant], has returned to the company. Rönnbäck and Broberg (2022) show how the BSAC moved from defending its charter to renegotiating its terms and eventually embracing the end of company rule in 1923–24. Rönnbäck and Ngoma (2024) show how it persuaded the imperial government to accept contested claims to land and minerals in Northern Rhodesia and Nyasaland. Koke (2024) reconstructs Southern Rhodesia's fiscal system under the BSAC between 1890 and 1922 and finds that the company's approach was gradual, experimental and sometimes ad hoc, with shifting definitions of "commercial" and "administrative" revenue that caused repeated conflict with settlers.
 
 To our knowledge, no comparable fiscal reconstruction exists for Northern Rhodesia. This gap matters for an old argument about company incentives. Arrighi (1966) argued that in Southern Rhodesia the company's wish to recover its heavy initial outlays led it to promote settler development that would raise the value of its railway, mining and land assets. North of the Zambezi, the company was unenthusiastic about copper development while it governed, and large-scale copper mining developed only from the late 1920s (Butler 2007). Under those conditions the same profit motive could have produced either a minimal administration, run as cheaply as possible until mineral values rose, or spending targeted at infrastructure that raised the value of company assets. The two possibilities predict different levels, composition and geography of public spending, which this project can test.
 
@@ -72,7 +74,7 @@ Cross-country studies have linked colonial institutions to long-run development 
 
 - *H2:* tax increases reduced the registered taxpaying population of the affected districts relative to comparable districts, and increased recorded labour migration.
 
-**RQ3. Did the end of company rule change fiscal policy?** We link the company-era series to Northern Rhodesia's Blue Books from 1924 and test for breaks in the level and mix of revenue and spending when the Crown took over. We concentrate on the years immediately after 1924, before large-scale copper mining developed (Butler 2007), to separate the change of ruler from the copper boom. We also document the fiscal terms of the transfer: the company's claims for wartime expenditure (A3/7/5, Tag 813), the supplemental charter (A3/5/2), and the proposed sale and the agreement between the Crown and the company (HC/1/3/68, HC/1/3/69 and HC/1/3/76). This complements Rönnbäck and Broberg's (2022) study of the company's negotiating strategy with evidence on what was at stake financially.
+**RQ3. Did the end of company rule change fiscal policy?** We link the company-era series to Northern Rhodesia's Blue Books from 1924 and test for breaks in the level and mix of revenue and spending when the Crown took over. We concentrate on the years immediately after 1924, before large-scale copper mining developed (Butler 2007), to separate the change of ruler from the copper boom. We also document the fiscal terms of the transfer: the company's claims for wartime expenditure (A3/7/5, Tag 813), the supplemental charter (A3/5/2), and the proposed sale and the agreement between the Crown and the company (HC/1/3/68, HC/1/3/69 and HC/1/3/76). This extends Rönnbäck and Broberg's (2022) study of the company's negotiating strategy by measuring what was at stake financially.
 
 - *H3:* the transfer to Crown rule was followed by a measurable shift in the revenue mix and in spending priorities.
 
@@ -80,7 +82,7 @@ Cross-country studies have linked colonial institutions to long-run development 
 
 ### 4.1 The archive
 
-The main source is a digitised archive of the BSAC's administrative records for North-Eastern Rhodesia (from 1896), North-Western Rhodesia and Northern Rhodesia (1911–24), with some later material [holding institution and terms of access: confirm]. Its catalogue lists 954 entries (files and volumes), and the archive contains more than 60,000 images. It includes correspondence between the territorial administrators and the company's London Office, the High Commissioner for South Africa and H.M. Commissioner in Zomba; district and sub-district reports; census and hut-tax returns; customs reports; and court records.
+The main source is a digitised archive of the BSAC's administrative records for North-Eastern Rhodesia (from 1896), North-Western Rhodesia and Northern Rhodesia (1911–24), with some later material. The project has access to the digitised archive through the Southern African Institute for Policy and Research (SAIPAR), an independent research centre in Lusaka, and has permission to publish from it. Its catalogue lists 954 entries (files and volumes), and the archive contains more than 60,000 images. It includes correspondence between the territorial administrators and the company's London Office, the High Commissioner for South Africa and H.M. Commissioner in Zomba; district and sub-district reports; census and hut-tax returns; customs reports; and court records.
 
 *Preliminary work.* We have reviewed all 954 catalogue entries and mapped 494 of them to 64 economic history research questions, with archive references for each. From this review, 103 catalogue entries are prioritised for this project (Annex A). They include:
 
@@ -116,7 +118,7 @@ The project will build three datasets:
 
 | Work package | Months | Main tasks | Deliverables |
 |---|---|---|---|
-| WP0. Set-up and pilot | 1–3 | Agreement with the archive on use and publication; recruit and train research assistants; codebook; pilot transcription | Pilot report; codebook v1; data management plan |
+| WP0. Set-up and pilot | 1–3 | Confirm data-sharing terms with SAIPAR; recruit and train research assistants; codebook; pilot transcription | Pilot report; codebook v1; data management plan |
 | WP1. Public finance (RQ1) | 3–18 | Transcribe accounts, estimates, customs and district reports; build D1; comparison with Crown territories | D1 v1; Paper 1 as working paper (month 18) |
 | WP2. Taxation and labour (RQ2) | 6–27 | Build D2 and D3; event-study analysis | D2 and D3 v1; Paper 2 as working paper (month 27) |
 | WP3. From company to Crown (RQ3) | 18–33 | Link to Blue Books; break tests; transfer files | Paper 3 as working paper (month 33) |
@@ -125,36 +127,38 @@ The project will build three datasets:
 ## 6. Significance and contribution
 
 - **Economic history.** The project adds a company-administered territory to the comparative evidence on colonial public finance and tests competing hypotheses about how a profit-seeking ruler sets taxes and spending.
-- **Business history.** It provides evidence from inside a company that was also a government, complementing recent work on the BSAC's diplomacy and its claims to land and minerals (Rönnbäck and Broberg 2022; Rönnbäck and Ngoma 2024).
+- **Business history.** It provides evidence from inside a company that was also a government, building on recent work on the BSAC's diplomacy and its claims to land and minerals (Rönnbäck and Broberg 2022; Rönnbäck and Ngoma 2024).
 - **Long-run development.** It provides dated, place-specific evidence for debates on whether and how colonial institutions persisted (Acemoglu, Johnson and Robinson 2001; Lowes and Montero 2021), while avoiding the "compression of history" that Austin (2008) criticises.
-- **Zambian history and research capacity.** It makes a key archive usable for quantitative research, trains Zambian research assistants in archival data methods, and returns the data to Zambian researchers through an open release and a workshop in Lusaka.
+- **Zambian history and research capacity.** It makes a key archive usable for quantitative research, trains Zambian research assistants in archival data methods, and returns the data to Zambian researchers through an open release and a workshop in Lusaka [co-organised with SAIPAR: confirm].
 
 ## 7. Outputs and dissemination
 
 - Three articles for peer-reviewed journals in economic and business history. Possible targets: [for example *Economic History Review*, *Journal of African History*, *Explorations in Economic History*, *Business History Review*, *Enterprise & Society*].
-- Working papers in [department working paper series].
-- Open data: D1 to D3 with codebook and source references, deposited in a recognised repository [for example the Swedish National Data Service or Zenodo] under an open licence, subject to the archive's terms. Archive images will not be redistributed without permission.
+- Working papers in [the Economic History unit's working paper series].
+- Open data: D1 to D3 with codebook and source references, deposited with the Swedish National Data Service (SND), which is hosted by the University of Gothenburg, under an open licence. Archive images will be shared only as the access permission allows.
 - Presentations at [for example the African Economic History Network annual meeting and the European Historical Economics Society conference].
-- A workshop at [University of Zambia or the holding archive] in months 33–36.
+- A workshop in Lusaka in months 33–36 [co-organised with SAIPAR; invite historians from the University of Zambia: confirm].
 - Popular dissemination: [blog posts, media].
 
 ## 8. Team and research environment
 
-[Principal investigator: role, share of full-time, relevant expertise and publications.]
+*Host environment.* The project will be based in the Economic History unit of the Department of Economy and Society at the University of Gothenburg's School of Business, Economics and Law. The unit's research on the economic history of colonialism includes recent work on the BSAC (Rönnbäck and Broberg 2022; Rönnbäck and Ngoma 2024) and on the return on British investment in Africa (Rönnbäck and Broberg 2019). The university hosted the 19th Annual Meeting of the African Economic History Network in October 2026, and it hosts the Swedish National Data Service, where the project's data will be deposited.
 
-[Co-applicants and their roles, if any.]
+*Partner.* The Southern African Institute for Policy and Research (SAIPAR), an independent research centre in Lusaka, provides access to the digitised archive [and will co-organise the Lusaka workshop: confirm].
 
-[Research assistants: for example two assistants based in Lusaka for transcription, supervised by the PI.]
+[Main applicant: name, role in the project, share of full-time.]
 
-[Host environment: department, relevant research groups, data and computing support.]
+[Co-applicants: names, roles in the project, share of full-time.]
 
-[Collaborators: the holding archive, historians at the University of Zambia, others. List collaborators only with their agreement.]
+[Previous research by the applicants. If Klas Rönnbäck is an applicant, list Rönnbäck and Broberg (2019, 2022), Rönnbäck and Ngoma (2024) and other relevant work. Add your own publications and the catalogue review described in Section 4.1.]
+
+[Research assistants: for example two assistants based in Lusaka for transcription, supervised by the applicants.]
 
 ## 9. Ethics, data management and access
 
-- The records date mainly from 1896 to 1924, and the people named in them are almost certainly deceased. The EU General Data Protection Regulation does not apply to the personal data of deceased persons (GDPR, Recital 27). We will confirm with [university]'s research ethics and data protection advisers whether any review is required, and follow the archive's conditions and Zambian law.
+- The records date mainly from 1896 to 1924, and the people named in them are almost certainly deceased. The EU General Data Protection Regulation does not apply to the personal data of deceased persons (GDPR, Recital 27). We will confirm with the University of Gothenburg's research ethics and data protection advisers whether any review is required, and follow the conditions of the access permission and Zambian law.
 - Court and criminal files contain names and accounts of violence. We will not publish individual-level data from these files. The published datasets will be aggregated to district and year.
-- [Archive access: confirm a written agreement with the holding institution covering use, transcription and publication of derived data.]
+- The project accesses the digitised archive through SAIPAR and has permission to publish from it. [Attach written confirmation if the call asks for it.]
 - A data management plan will be written in WP0. Datasets will be versioned, documented with a codebook and given a persistent identifier on release.
 
 ## 10. Risks and mitigation
@@ -165,23 +169,23 @@ The project will build three datasets:
 | Many catalogue entries have no year | High | Date documents from their content, record the dating method, and exclude undatable items from time-series analysis. |
 | Transcription is slower than planned | Medium | Work from the prioritised list in Annex A; use handwritten text recognition only where accurate; [budget contingency]. |
 | Company-era categories do not match Blue Book categories | Medium | Documented crosswalk; check results under alternative classifications. |
-| Problems with access or permission to publish derived data | [Low/Medium] | Written agreement with the archive in WP0. |
+| Change in access to the digitised archive | Low | Access through SAIPAR and permission to publish are already in place; the data-sharing terms are confirmed in writing in WP0. |
 | The 1924 break is confounded by the start of the copper boom | Medium | Concentrate on 1924 to about 1928 and compare districts away from mining areas. |
 
 ## 11. Budget
 
-[Complete with your university's finance office. Check the foundations' rules on salaries, indirect costs and maximum amounts.]
+[Complete with finance staff at the School of Business, Economics and Law. Check the foundations' rules on salaries, indirect costs and maximum amounts.]
 
 | Item | Year 1 | Year 2 | Year 3 | Total | Justification |
 |---|---|---|---|---|---|
 | PI salary ([x]% of full-time) | | | | | Project leadership, analysis, writing |
 | Research assistants (2 × [x] months, Lusaka) | | | | | Transcription and double entry |
-| Travel to Lusaka and the archive | | | | | Pilot, supervision, workshop |
+| Travel between Gothenburg and Lusaka | | | | | Pilot, supervision of research assistants, workshop |
 | Workshop in Lusaka | | | | | Dissemination and capacity building |
 | Conference travel | | | | | Presentation of results |
 | Open-access publication fees | | | | | Three articles |
 | Data deposit, software and storage | | | | | Data management |
-| Indirect costs ([rate per foundation rules]) | | | | | |
+| Indirect costs ([University of Gothenburg rate, within the foundations' rules]) | | | | | |
 | **Total** | | | | | |
 
 ## References
@@ -264,7 +268,7 @@ Yorke, E. J. (2015). *Britain, Northern Rhodesia and the First World War: Forgot
 
 ### Primary sources
 
-[Holding institution], British South Africa Company administrative records, North-Eastern Rhodesia, North-Western Rhodesia and Northern Rhodesia, as listed in *BSAC Complete Catalogue* (954 entries). Files cited by Ref. No. (and Tag No. where the Ref. No. is not unique); see Annex A.
+British South Africa Company administrative records, North-Eastern Rhodesia, North-Western Rhodesia and Northern Rhodesia, as listed in *BSAC Complete Catalogue* (954 entries). Digitised copy accessed through the Southern African Institute for Policy and Research (SAIPAR), Lusaka. Files cited by Ref. No. (and Tag No. where the Ref. No. is not unique); see Annex A.
 
 ## Annex A. Prioritised archive files
 
