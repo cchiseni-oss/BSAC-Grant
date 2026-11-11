@@ -1,44 +1,47 @@
 # Handelsbanken grant proposal: read this first
 
-This folder holds a first draft of a research project application to Handelsbanken's research foundations (Jan Wallanders och Tom Hedelius stiftelse and Tore Browaldhs stiftelse).
+This folder holds the draft of a research project application to Handelsbanken's research foundations (Jan Wallanders och Tom Hedelius stiftelse and Tore Browaldhs stiftelse). The call opens on 1 December 2026.
 
 | File | What it is |
 |---|---|
-| `Handelsbanken_Proposal_Draft.md` | The full draft. Easiest to read on GitHub. |
-| `Handelsbanken_Proposal_Draft.docx` | The same text as a Word document, with basic formatting, for editing. |
+| `Handelsbanken_Proposal_Draft.md` | The full draft (version 0.3). Easiest to read on GitHub. |
+| `Handelsbanken_Proposal_Draft.docx` | The same text as a Word document, for editing. |
 
-The draft proposes one focused project: *The Company-State's Ledger: Taxation, Labour and Public Finance under the British South Africa Company in Northern Rhodesia, 1896–1924*. It has three research questions (public finance, tax and migration, and the change from company to Crown rule), a methods section built on the catalogue, a 36-month work plan, risk, ethics and budget sections, 36 references and an annex listing 103 prioritised archive files with Ref., Tag and Loc. numbers.
+## What changed in version 0.3
 
-## What I could not check about the call
+Following discussion with Klas Rönnbäck, the project is no longer a reconstruction of the company's public finances. That would have run parallel to Honest Koke's work on Southern Rhodesia and may overlap with an unpublished BSAC manuscript by Niamh Brennan and Sean Power. The project is now about **resistance to the company's occupation and rule, how the company responded, and whether resistance shaped its tax institutions**. Tax is kept as the measurable outcome, which links the project to Bolt and Gardner (2020).
 
-I could not open handelsbankenfoundations.org or the application portal (teklafs.stanford.se). Both refused automated access from my environment. The draft therefore follows the usual structure of Swedish research project applications, not the foundations' own template.
+The working title is *Resistance, Coercion and Revenue: African Responses to the Making of the Company-State in Northern Rhodesia, c. 1890–1924*. Change it freely.
 
-What I could confirm from other sources:
+The earlier public-finance versions are in the Git history (pull requests #2 and #3).
 
-- Applications go through the portal at teklafs.stanford.se, which has general instructions ("Allmänna anvisningar") for applicants.
-- The foundations fund research projects (grant numbers such as P25-0067 appear in published acknowledgements) and Browaldh postdoctoral fellowships hosted by Swedish departments, including economic history (Uppsala's 2024 call).
-- Economic history is within their scope. They have funded economic history projects and workshops.
-- A third-party funding database says they support business administration, economics and economic history, and that applications are open to researchers in Sweden. I could not confirm this on the foundations' own site.
+## Settled so far
 
-## Check these before going further
+- **Host:** Economic History unit, Department of Economy and Society, School of Business, Economics and Law, University of Gothenburg, potentially with Klas Rönnbäck.
+- **Zambian archive:** accessed through the Southern African Institute for Policy and Research (SAIPAR), with permission to publish.
+- **Call:** opens 1 December 2026.
 
-1. **Eligibility.** If the main applicant must work at a Swedish university or research institute, you will need a Swedish host or co-applicant. Two departments that fit the topic are economic history at the University of Gothenburg (Klas Rönnbäck's recent BSAC papers, cited in the draft, come from there) and economic history at Lund University (Erik Green, co-author of the African economic history synthesis cited in the draft, has worked there).
-2. **Grant type and deadline.** Which call is open now (project grant, postdoc or other) and its dates.
-3. **Limits and format.** Character or page limits for each field, required sections, language, and whether a Swedish popular science summary is required.
-4. **Budget rules.** Maximum amount and duration, which salaries can be covered, indirect costs, and whether research assistants in Zambia can be paid from the grant.
-5. **Two claims that rest on catalogue descriptions.** The tax "exodus" episode (A2/1/4, Tag 307) and the contents of the 1909–10 district reports (A5/2/5 to A5/2/10) are described from the catalogue. Look at those files before you submit, because reviewers will take them as evidence the project is feasible.
+## Archives outside Zambia (confirmed to exist; contents not yet checked)
 
-## What I need from you to finish the draft
+| Archive | What it holds | Why it matters |
+|---|---|---|
+| Derbyshire Record Office, D3287/BSA | Philip Lyttelton Gell's BSAC papers. Gell was director (1899–1917, 1923–25), chairman (1917–20) and president (1920–23). Includes papers circulated to directors. | Probably the "Gell records" Klas mentioned. Confirm with him. |
+| The National Archives, Kew | FO 2 (Foreign Office Africa correspondence to 1905, covering the British Central Africa Protectorate); Colonial Office correspondence on the BSAC, including the company's administrative minutes to 1924 | Occupation of North-Eastern Rhodesia in the 1890s; London's view of resistance |
+| National Archives of Malawi, Zomba | British Central Africa Protectorate records | North-Eastern Rhodesia was administered partly from Blantyre and Zomba in the 1890s |
+| Bodleian Library, Oxford | Microfilm of letters from the BSAC London office | Company correspondence |
 
-- Principal investigator's name, position and institution, and any co-applicants.
-- Project length and start date.
-- Budget figures: salary levels, research assistant costs in Lusaka, travel.
-- Which institution holds the archive and on what terms you can use and publish from it (needed for Sections 4.1 and 9).
-- Results of any pilot transcription, even a few files. This would strengthen the feasibility case.
-- The call text or portal instructions. Paste them into the chat and I will fit the draft to the actual fields and limits.
+The exact Colonial Office series and the Malawi series still need to be identified. Search Kew's Discovery catalogue for Mpezeni, Ngoni, Mwamba, Bemba, Mashukulumbwe and "North-Eastern Rhodesia".
+
+## Decisions and checks before submission
+
+1. **Main applicant.** If the foundations require a main applicant employed at a Swedish university, that is probably Klas, with you as co-applicant.
+2. **Scope the external archives.** Reviewers will ask what is known to be in Kew, Derbyshire and Zomba. Even a day's search in Kew's online catalogue, or a short note from Klas on the Gell papers, would strengthen the feasibility case.
+3. **Read the key Zambian files.** Annex A lists 84 entries, but the assessments rest on catalogue descriptions. The most important to read first: A3/24/6 Vols I–II (Kafue disturbances), HC1/2/52–55 (Lealui unrest), HC/1/3/32 (alleged rebellion), HC/1/3/49–50 (Watch Tower), A2/1/4 (tax "exodus") and IN1/1/5 (tax collected through indunas).
+4. **Closing date, limits and budget rules** once the call is published. I could not open the foundations' website or portal, so the structure follows the usual Swedish research application format.
+5. **Overlap.** Ask Klas what the Brennan and Power manuscript covers, to make sure resistance is not part of it.
 
 ## About the references
 
-- I checked every reference against publisher, journal or library records found by web search in October 2026. Every work cited in the text is in the reference list, and every work in the list is cited.
-- Page ranges are missing for six journal entries where I could not confirm them: Arrighi (1966), Frankema (2011), Juif and Frankema (2018), Musambachime (1981), Slinn (1971) and Rönnbäck and Ngoma (2024, published online). Add them from the articles themselves. The DOIs shown were checked.
-- The statement that the digitised Northern Rhodesia Blue Books begin in 1924 rests on the Stanford Libraries catalogue record for the African Blue Books collection. Confirm it with your library or the British Online Archives collection "Colonial Africa in Official Statistics, 1821–1953".
+- All 22 references were checked against publisher, journal or library records found by web search in October 2026. Every work cited in the text is in the reference list, and every work in the list is cited.
+- Page ranges are missing for some entries where I could not confirm them: Juif and Frankema (2018), Musambachime (1981), Ranger (1968, Journal of African History vol. 9) and Rönnbäck and Ngoma (2024, published online).
+- The claim that Zambia offered "little primary resistance" is attributed to Rotberg (1966) as representative of the older literature. A 1970 Journal of African History article makes the same claim, but I could not confirm its author, so it is not cited.
